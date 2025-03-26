@@ -7,22 +7,25 @@ We aim to design an end-to-end database application which makes it simple for th
 ## Technical Requirements:
 
 ### Tech Stack:
-**Front end**: <br> 
+**Front end**: <br>  
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" alt="HTML5" width="50" height="50"> &nbsp;
-<img src="https://camo.githubusercontent.com/19245ec17eda7364486b88211a4f9893001661c78d384430843df7584f30ec4e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733322f3733323139302e706e67" alt="CSS3" width="50" height="50">  &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" alt="CSS3" width="50" height="50"> &nbsp;
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="50" height="50"> &nbsp;
-<img src="https://camo.githubusercontent.com/2c69dc89e7484cf00c5375512ba804c3b7ca8284dab85a8782af3f2bfbeb52c1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7461696c77696e646373732d69636f6e2e737667" alt="Tailwind CSS" width="50" height="50">  &nbsp;
-<img src="https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667" alt="React.js" width="50" height="50"> &nbsp;
-<img src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" alt="Git" width="50" height="50"> &nbsp;
-<img src="https://camo.githubusercontent.com/ac28190b3bdb446d46b2760854ecec42927bd2ae802d0729c6b0e72449b56082/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4769744875622d4d61726b2e706e67" alt="GitHub" width="50" height="50"> &nbsp;
-<!-- HTML, CSS, Javascript, Tailwind(CSS), React -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="50" height="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50" height="50"> &nbsp;
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"> &nbsp;
 
-**Back end**: 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fmysql_5968313&psig=AOvVaw287XoapUXl8x_HjGAp_X9S&ust=1681998546437000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPC664WLtv4CFQAAAAAdAAAAABAD" alt="MySQL" width="50" height="50"> &nbsp;
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fdjango-icon-0.html&psig=AOvVaw3CWQ0uzkrrab3rHfVsfVwc&ust=1681998704016000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiXjdiLtv4CFQAAAAAdAAAAABAD" alt="Django" width="50" height="50"> &nbsp;
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fpython-3521655&psig=AOvVaw0310vTYdnplJ_ujEmLFAwT&ust=1681998621742000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiJjKuLtv4CFQAAAAAdAAAAABAD" alt="Python" width="50" height="50"> &nbsp;
+---
+
+**Back end**: <br>  
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="50" height="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"> &nbsp;
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="50" height="50"> &nbsp;
-<!-- MySQL, Django, python, Javascript, Flask, Flutter -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50" height="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50" height="50"> &nbsp;
+
 
 ### Data & Entity Constraints:
 - A supplier can register only once as a supplier.
